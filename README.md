@@ -1,7 +1,6 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Farhan Rahman</h1>
-<h3 align="center">Passionate Data Scientist from Indonesia</h3>
+<h1 align="center">Hola! 👋, I'm Farhan Rahman</h1>
+<h3 align="center">Passionate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanrn&label=Profile%20views&color=0e75b6&style=flat" alt="farhanrn" /> </p>
 
